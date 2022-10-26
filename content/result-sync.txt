@@ -1,0 +1,4 @@
+Here is the result : First text file, 
+ This is the second text fileHere is the result : First text file, 
+ This is the second text fileHere is the result : First text file, 
+ This is the second text file
